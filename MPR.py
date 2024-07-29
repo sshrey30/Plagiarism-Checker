@@ -98,7 +98,7 @@ check_button.pack(pady=20, ipadx=10)
 result_label = tk.Label(root, text="", font=("JetBrains Mono ExtraBold", 16), fg=text_color, bg=bg_color)
 result_label.pack(pady=20)
 
-footer_label = tk.Label(root, text="SE / AI-DS / SEM 4 / MPR 1B / GROUP - 28\nShrey - Aryan - Tanishq - Yash", font=("SF Pro Display", 12), fg="WHITE", pady=5, bg="#2F5061")
+footer_label = tk.Label(root, text="Plagiarism - checker By P.Vignesh Rahul Chandra", font=("SF Pro Display", 12), fg="WHITE", pady=5, bg="#2F5061")
 footer_label.pack(fill=tk.X, side=tk.BOTTOM)
 
 
